@@ -1,0 +1,41 @@
+{
+  "name": "paper-and-pour",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "barista-game",
+    "cozy-game",
+    "latte-art",
+    "fluid-simulation",
+    "web-audio",
+    "react",
+    "vite"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@fontsource/caveat": "^5.3.0",
+    "@fontsource/patrick-hand": "^5.3.0",
+    "@fontsource/quicksand": "^5.3.0",
+    "lucide-react": "^1.72.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}
